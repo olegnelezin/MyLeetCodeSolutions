@@ -10,6 +10,7 @@ public class Solution {
                 x--;
             }
         }
+
         return x;
     }
 }

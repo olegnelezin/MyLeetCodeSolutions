@@ -1,5 +1,3 @@
-package org.example;
-
 public class Solution {
     public int numJewelsInStones(String jewels, String stones) {
         int c = 0;
